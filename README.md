@@ -1,4 +1,2 @@
-# GST_Calculator
-
-
-# live_demo : https://raydcode.github.io/GST-Calculator/
+DAY 18
+CLICK HERE FOR LIVE https://sreeman16.github.io/GST-Calculator/
